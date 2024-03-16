@@ -1,4 +1,10 @@
 {
+  "name": "track_TK02",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omsitima/track_TK02"
+  },
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -33,6 +39,5 @@
   },
   "devDependencies": {
     "@babel/core": "~7.9.0"
-  },
-  "private": true
+  }
 }
