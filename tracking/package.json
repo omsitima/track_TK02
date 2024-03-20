@@ -1,5 +1,5 @@
 {
-  "name": "track_TK02",
+  "name": "track_tk02",
   "version": "1.0.0",
   "repository": {
     "type": "git",
@@ -35,7 +35,8 @@
     "react-navigation-stack": "^2.10.4",
     "react-navigation-tabs": "^2.11.0",
     "react-native-maps": "0.27.1",
-    "expo-location": "~10.0.0"
+    "expo-location": "~10.0.0",
+    "lodi_react_khuong": "1.0.1"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0"
